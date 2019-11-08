@@ -1,0 +1,53 @@
+#loginBody {
+    color: #ffffff;
+    /* background-color: #5e5e5e; */
+    background-color: #000000;
+    background-image: url('../../assets/img/warehouse.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 20px;
+    height: 84.5%;
+    width: 100%;
+    position: absolute;
+    
+}
+
+#title {
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 18px 8px 18px 8px;
+}
+
+#reqAccess {
+    position: bottom;
+}
+
+.loginPane {
+    background-color: #dadadaea;
+    margin: auto;
+    width: 40%;
+    color: #000000;
+    z-index: 1;
+}
+
+#errText {
+    color: #ff0000;
+    padding: 8px 8px 8px 8px;
+}
+
+#errTextHidden {
+    visibility: hidden;
+    padding: 8px 8px 8px 8px;
+}
+
+.loginAltActionDiv {
+    padding: 5px 0px 5px 0px;
+    size: 20px;
+    color: #2974a2;
+    text-decoration: underline;
+    font-size: 17px;
+}
+
+.loginAltAction {
+    padding: 0px 18px 0px 18px;
+}
